@@ -1,0 +1,3 @@
+0 Person
+1 Fire
+2 Normal
